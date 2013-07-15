@@ -22,12 +22,10 @@ header h1 {
 Top Nav
 */
 
-nav {
-  height: 40px;
-}
-
 nav ul {
+  display: inline-block;
   list-style-type: none;
+  margin: 20px 0px;
   padding: 0px;
 }
 
@@ -58,5 +56,5 @@ Content
 Footer
 */
 .footer {
-
+    margin: 20px 0px;
 }
